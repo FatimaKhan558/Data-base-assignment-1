@@ -1,0 +1,3 @@
+SELECT *
+FROM USER
+WHERE amount>2
